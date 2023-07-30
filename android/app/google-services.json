@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930541692517",
+    "project_id": "dochat-afb75",
+    "storage_bucket": "dochat-afb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930541692517:android:4a58cbcb5d7a06539f088c",
+        "android_client_info": {
+          "package_name": "com.example.dochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930541692517-b8et73406fa1jfih5cmco0f5inbvvm3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWJX6o7NChRLmoEJogkkm5-30JEGviks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930541692517-b8et73406fa1jfih5cmco0f5inbvvm3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
