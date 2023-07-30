@@ -23,7 +23,7 @@ To get started with the Flutter To-Do List app, follow the steps below.
 1. Clone this repository to your local machine or download the ZIP archive and extract it.
 
 ```bash
-git clone https://github.com/your-username/flutter-todo-list.git
+git clone thttps://github.com/LivinKL/LivChat
 cd flutter-todo-list
 ```
 
